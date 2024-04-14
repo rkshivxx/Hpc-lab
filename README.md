@@ -1,4 +1,4 @@
-# Sieve of Eratosthenes algorithm##
+# Sieve of Eratosthenes algorithm
 ##The Sieve of Eratosthenes is an e cient algorithm to nd all prime numbers up 
 to a speci ed limit, . It works by iteratively marking the multiples of each prime 
 starting from 2. Initially, all numbers are considered unmarked. Begin with the 
